@@ -1,0 +1,14 @@
+body { font-family: 굴림체; }
+
+thead th { background-color: #eee; }
+
+tr:hover td { background-color: #ffe; cursor: pointer; }
+
+input.form-control.w100 { width: 100px; }
+input.form-control.w200 { width: 200px; }
+input.form-control.w300 { width: 300px; }
+input.form-control.w400 { width: 400px; }
+select.form-control.w100 { width: 100px; }
+select.form-control.w200 { width: 200px; }
+select.form-control.w300 { width: 300px; }
+select.form-control.w400 { width: 400px; }
